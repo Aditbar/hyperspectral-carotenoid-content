@@ -1,1 +1,1 @@
-# skripsi
+# hyperspectral data
